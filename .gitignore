@@ -1,0 +1,3 @@
+.gradle
+/forge/*
+!/forge/build.gradle

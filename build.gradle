@@ -1,0 +1,3 @@
+project(':forge') {
+	ext.srcDir = file('src/').absolutePath
+}
